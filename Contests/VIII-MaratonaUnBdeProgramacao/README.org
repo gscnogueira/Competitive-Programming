@@ -2,19 +2,33 @@
 #+AUTHOR: Gabriel Nogueira
 
 * Problemas
- - [ ] A
- - [ ] B
- - [ ] C
- - [ ] D
- - [X] [[file:e.cpp][E]]
- - [ ] F
- - [ ] G
- - [X] [[file:h.cpp][H]]
- - [X] [[file:i.cpp][I]]
- - [X] [[file:j.cpp][J]]
- - [ ] K
- - [ ] L
- - [X] [[file:m.cpp][M]]
- - [ ] N
- - [ ] O
- - [X] [[file:p.cpp][P]]
+** TODO A - A Viagem de Papai Noel
+- Problema do caixeiro-viajante (Travelling salesman problem)
+** TODO B - Buracos de Minhoca
+** TODO C - Cupins vs Tamanduás: A Revanche
+** TODO D - Durval e os Treinos Intensos
+Eds e a Prova Perfeita 2
+Farejando Arrays Especiais
+Gole Perfeito
+Helena e os Cheques
+IMC aproximado
+Jankenpon
+Kaboom
+Laços Infinitos
+Média Móvel
+Natal e árvores
+Observação Estelar
+Pamonhas
+** DONE [[file:e.cpp][E]] - Eds e a Prova Perfeita 2
+** TODO F - Farejando Arrays Especiais
+** TODO G - Gole Perfeito
+** DONE [[file:h.cpp][H]] - Helena e os Cheques
+- Programação dinâmica
+** DONE [[file:i.cpp][I]] - IMC aproximado
+** DONE [[file:j.cpp][J]] Jankenpon
+** TODO K Kaboom
+** TODO L Laços Infinitos
+** DONE [[file:m.cpp][M]] Média Móvel
+** TODO N Natal e árvores
+** TODO O Observação Estelar
+** DONE [[file:p.cpp][P]] Pamonhas
