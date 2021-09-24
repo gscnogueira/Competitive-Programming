@@ -2,33 +2,21 @@
 #+AUTHOR: Gabriel Nogueira
 
 * Problemas
-** TODO A - A Viagem de Papai Noel
-- Problema do caixeiro-viajante (Travelling salesman problem)
-** TODO B - Buracos de Minhoca
-** TODO C - Cupins vs Tamanduás: A Revanche
-** TODO D - Durval e os Treinos Intensos
-Eds e a Prova Perfeita 2
-Farejando Arrays Especiais
-Gole Perfeito
-Helena e os Cheques
-IMC aproximado
-Jankenpon
-Kaboom
-Laços Infinitos
-Média Móvel
-Natal e árvores
-Observação Estelar
-Pamonhas
-** DONE [[file:e.cpp][E]] - Eds e a Prova Perfeita 2
-** TODO F - Farejando Arrays Especiais
-** TODO G - Gole Perfeito
-** DONE [[file:h.cpp][H]] - Helena e os Cheques
-- Programação dinâmica
-** DONE [[file:i.cpp][I]] - IMC aproximado
-** DONE [[file:j.cpp][J]] Jankenpon
-** TODO K Kaboom
-** TODO L Laços Infinitos
-** DONE [[file:m.cpp][M]] Média Móvel
-** TODO N Natal e árvores
-** TODO O Observação Estelar
-** DONE [[file:p.cpp][P]] Pamonhas
+- A - A Viagem de Papai Noel
+  + Problema do caixeiro-viajante (Travelling salesman problem)
+- B - Buracos de Minhoca
+- C - Cupins vs Tamanduás: A Revanche
+- D - Durval e os Treinos Intensos
+- [[file:e.cpp][E - Eds e a Prova Perfeita 2]]
+- F - Farejando Arrays Especiais
+- G - Gole Perfeito
+- [[file:h.cpp][H - Helena e os Cheques]]
+  + Programação dinâmica
+- [[file:i.cpp][I - IMC aproximado]]
+- [[file:j.cpp][J - Jankenpon]]
+- K - Kaboom
+- L - Laços Infinitos
+- [[file:m.cpp][M - Média Móvel]]
+- N - Natal e árvores
+- O - Observação Estelar
+- [[file:p.cpp][P - Pamonhas]]
